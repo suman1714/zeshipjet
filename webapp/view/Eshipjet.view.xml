@@ -1,0 +1,7 @@
+<mvc:View controllerName="com.eshipjet.zeshipjet.controller.Eshipjet"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <Button text="Submit"/>
+    </Page>
+</mvc:View>
